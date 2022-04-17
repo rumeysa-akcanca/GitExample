@@ -10,6 +10,7 @@ namespace GitExample.API.Controllers
         {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
+        //yorum
 
         private readonly ILogger<WeatherForecastController> _logger;
 
